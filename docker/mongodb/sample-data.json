@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "bulbasaur",
+    "height": 7,
+    "weight": 69,
+    "base_experience": 64,
+    "pokemon_order": 1
+  },
+  {
+    "id": 2,
+    "name": "ivysaur",
+    "height": 10,
+    "weight": 130,
+    "base_experience": 142,
+    "pokemon_order": 2
+  },
+  {
+    "id": 4,
+    "name": "charmander",
+    "height": 6,
+    "weight": 85,
+    "base_experience": 62,
+    "pokemon_order": 5
+  },
+  {
+    "id": 5,
+    "name": "charmeleon",
+    "height": 11,
+    "weight": 190,
+    "base_experience": 142,
+    "pokemon_order": 6
+  },
+  {
+    "id": 8,
+    "name": "wartortle",
+    "height": 10,
+    "weight": 225,
+    "base_experience": 142,
+    "pokemon_order": 11
+  }
+]
